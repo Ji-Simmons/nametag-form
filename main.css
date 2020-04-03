@@ -1,0 +1,36 @@
+.tag {
+    border-radius: 20px;
+    width: 400px;
+    height: 250px;
+    border-bottom: 20px solid red;
+}
+
+header {
+    background: red;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    padding: 10px;
+}
+
+.hello {
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+
+.mynameis {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.Ji {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 75px;
+    padding: 20px;
+    color: black;
+}
